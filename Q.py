@@ -71,7 +71,7 @@ import numpy as np
 new_array = np.array([[0,1],[2,3],[4 ,5]])
 
 list = new_array.tolist()
-list
+print(list)
 
 #-----------------------------------------------------------------------#
 
